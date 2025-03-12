@@ -1,4 +1,4 @@
-# vicGallerySearch
+# Instructions
 VicGallerySearch allows you to move images easily. 
 If you have many images and want to move them one by one carefully, select the folder,
 and the program will load all the images visually. When you click on an image, 
